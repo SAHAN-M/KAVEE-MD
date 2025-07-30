@@ -1,0 +1,31 @@
+{
+  "name": "KAVEE-MD",
+  "description": "Javascript WhatsApp bot made by YourName",
+  "logo": "",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Q4AjUbLQ#18HDoz61VAXpNqAq7vsrZM8gYLAXyK2aYxA6TuBrICg",
+      "required": true
+    },  
+
+    "ALIVE_IMG": {
+      "description": "Put your alive img here.",
+      "required": false
+    },
+    
+    "AUTO_RECORDING": {
+      "description": "true",
+      "required": true 
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
