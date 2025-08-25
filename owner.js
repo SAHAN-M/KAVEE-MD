@@ -34,7 +34,7 @@ let dec = `*KAVEE-MD BOT OWNER📍*
         "VERSION:3.0\n" +
         "FN:Mr. Kaviya\" +
         "ORG:Mr. Kaviya\n" +
-        "TEL;type=CELL;type=VOICE;waid=94775347129:+94775347129\n" +
+        "TEL;type=CELL;type=VOICE;waid=94760846044:+94760846044\n" +
         "EMAIL:sahankavisha005@gmail.com\n" +
         "END:VCARD";
 
@@ -44,7 +44,7 @@ let dec = `*KAVEE-MD BOT OWNER📍*
         "VERSION:3.0\n" +
         "FN:Mr. Senesh\n" +
         "ORG:Mr. Senesh\n" +
-        "TEL;type=CELL;type=VOICE;waid=94775347129:+94775347129\n" +
+        "TEL;type=CELL;type=VOICE;waid=94760846044:+94760846044\n" +
         "EMAIL:sahankavisha004@gmail.com\n" +
         "END:VCARD";
 
