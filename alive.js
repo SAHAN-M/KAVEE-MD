@@ -38,7 +38,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363369981563818@newsletter', // This JID needs to be valid and accessible
-                    newsletterName: 'HASHAN-MD-V1',
+                    newsletterName: 'KAVEE-MD-V1',
                     serverMessageId: 143
                 }
             }
